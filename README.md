@@ -1,3 +1,6 @@
+<h1 align="center">Shipment App</h1>
+<p>This is a solution for any company who neeps a shipment application. It calculates the total amount for shipment from one country to another, either by air or by sea.</p>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
